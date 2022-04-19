@@ -1,16 +1,23 @@
-# kuncie
+### Kuncie
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Supported devices 
+android 6.0 to android 11
+## Supported features
+- Home
+- Dio
+- BLoC
+- Forward/previous music
+- Search artist
+- Play/pause music
+- Indicatior play music
+## Requirements to build the app
+- android studio/visual studio code
+- flutter version 2.10.3
+- android device/ emulator
+## Instructions to build and deploy the app
+- clone/ download project https://github.com/yonakris98/kuncie.git
+- open project folder on vs code/ android studio
+- install flutter version 2.10.3
+- run "flutter pub get" on terminal
+- run "flutter build apk" to get apk file
+- run "flutter run" to run on emulator/ android device
