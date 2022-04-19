@@ -1,8 +1,8 @@
 ### Kuncie
 
 ## Supported devices 
-android 6.0 to android 11
-iOS
+- android 6.0 to android 11
+- iOS
 ## Supported features
 - Home
 - Dio
